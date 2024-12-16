@@ -71,5 +71,3 @@ Operações: O programa possui um menu para cadastrar, visualizar, atualizar e r
 
 ## Licença
 Este projeto é de uso educacional e pode ser livremente modificado.
-
-Esse `README.md` dá uma visão geral do projeto e instruções para sua execução e configuração. &#8203;:contentReference[oaicite:0]{index=0}&#8203;
